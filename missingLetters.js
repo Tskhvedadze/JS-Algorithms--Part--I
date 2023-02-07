@@ -18,7 +18,6 @@ function fearNotLetter(str) {
             break
         }
     }
-
     return output
 }
 
